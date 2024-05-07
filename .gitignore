@@ -1,0 +1,18 @@
+.settings/
+
+# Intellij
+.idea/
+*.iml
+.vscode/
+
+# Maven
+logs/
+target/
+
+# Allure
+.allure
+
+ajcore.*
+
+# env vars
+.env
